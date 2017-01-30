@@ -1,9 +1,14 @@
 # discovery
 One of our goals is to provide new search capabilities. The following is a list of potential features.
 
+## Use cases
+* Give me all papers published between 2010 and 2012
+* Give me all datasets published between 2010 and 2012
+* Give me all papers/datasets published between 2010 and 2012 in Berlin
+
 ## Search for datasets
-* spatial properties
-* temporal properties
+* spatial properties (extract information from geotiff/shapefile)
+* temporal properties (extract information from geotiff/shapefile)
 
 ## Search for source code
 * libraries
@@ -20,3 +25,4 @@ One of our goals is to provide new search capabilities. The following is a list 
 * constrain search to keywords
 
 ## Search for methods
+* ?
