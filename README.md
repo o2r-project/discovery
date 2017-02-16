@@ -26,3 +26,7 @@ One of our goals is to provide new search capabilities. The following is a list 
 
 ## Search for methods
 * ?
+
+## Granularity in search
+
+* through interactive elements, find values in plots, lines in code, geometries in maps, annotations in data, frames in animations, etc. and reference them with micro persistent identifiers
